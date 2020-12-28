@@ -1,8 +1,8 @@
 @layer base {
   @font-face {
     font-family: "junicode-regular-webfont";
-    src: url("/fonts/GandurNew-Light.woff2") format("woff2"),
-        url("/fonts/GandurNew-Light.woff") format("woff");
+    src: url("/fonts/junicode-regular-webfont.woff2") format("woff2"),
+        url("/fonts/junicode-regular-webfont.woff") format("woff");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -26,10 +26,10 @@
 
   body {
     @apply bg-pageBG text-pageText font-mono leading-none;
-    font-size: 14px;
+    font-size: 18px;
 
     @media (--md) {
-      font-size: 16px;
+      font-size: 20px;
     }
   }
 

@@ -45,7 +45,7 @@ p {
 
 p,
 .rc ul {
-  @apply text-xs leading-normal;
+  @apply text-xl leading-normal;
 
   strong {
     @apply font-semibold;
