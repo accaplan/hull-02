@@ -13,8 +13,8 @@ const urlFor = source => {
 }
 
 const author = {
-  name: 'Nick DiMatteo',
-  handle: 'ndimatteo',
+  name: 'Office Romance',
+  handle: 'romanceoffice',
   image:
     'https://pbs.twimg.com/profile_images/1174691001119756288/TbJJ6_2I_400x400.jpg'
 }

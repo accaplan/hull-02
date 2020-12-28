@@ -32,9 +32,6 @@ const Accordions = ({ data }) => {
     <section className="section border-b">
       <div className="section--wrapper">
         <div className="section--content">
-          <h2 className="mb-8 font-serif text-7xl text-center">
-            The Accordion
-          </h2>
           <div className="section--title has-action">
             {title}
             <button className="btn" onClick={() => setAllOpen(!allOpen)}>
