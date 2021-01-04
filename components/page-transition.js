@@ -11,7 +11,7 @@ const PageTransition = React.memo(() => {
   return (
     <>
       <Head>
-        <title>Loading...</title>
+        <title>it's on the way...</title>
       </Head>
       <motion.div
         key="loader"
@@ -31,8 +31,8 @@ const PageTransition = React.memo(() => {
           <Icon name="700" viewBox="0 0 700 700" />
         </div>
         <div className="panel-swipe--bg">
-          <Marquee line="Loading" className="is-inverted is-large" />
-          <Marquee reverse line="Loading" className="is-inverted is-large" />
+          <Marquee line="take a deep breath" className="is-inverted is-large" />
+          <Marquee reverse line="daydreaming" className="is-inverted is-large" />
         </div>
       </motion.div>
     </>
