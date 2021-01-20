@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "main": "package.json",
-  "author": "Office Romance <computingcoop@gmail.com>",
+  "author": "Office Romance <info@romanceoffice.com>",
   "scripts": {
     "build": "sanity build",
     "dev": "sanity start",

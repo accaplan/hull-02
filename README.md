@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://insane.codes">
+  <a href="https://idlehours.co">
     <img src="https://img.shields.io/static/v1?label=&message=View%20Demo&style=for-the-badge&color=black&logo=vercel" />
   </a>
 </p>
@@ -225,7 +225,7 @@ While this starter is relatively opinionated, the goal was three-fold:
 
 That being said, I understand this means a lot of what's included is **very opinionated**. However, you'll find that at it's core the structure and naming conventions lend itself to really making it your own. 
 
-By now, I'm sure you noticed the ridiculous-looking [demo site](https://insane.codes/) (I love 90's metal, can you tell?)
+By now, I'm sure you noticed the ridiculous-looking [demo site](https://idlehours.co/) (I love 90's metal, can you tell?)
 
 I've purposefully extracted all the styles that pertain to the demo in a single CSS file (`/styles/_config/_700.css`). Remove it from your styles to truly strip it down to its _hull_.
 </details>
