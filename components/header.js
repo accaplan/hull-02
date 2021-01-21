@@ -52,12 +52,6 @@ const Header = ({ menu, transparent }) => {
               </span>
             </button>
 
-            <button className="btn shop" onClick={() => toggleMenu()}>
-                <Link href= "/shop">
-                Shop
-                </Link>
-            </button>
-
             <nav className="main-navigation" role="navigation">
               <button
                 onClick={() => toggleMenu(!isMenuOpen)}
